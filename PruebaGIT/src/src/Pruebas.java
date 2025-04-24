@@ -34,4 +34,8 @@ public class Pruebas {
 	public static void f9() {
 		System.out.println("f9");	
 	}
+
+	public static void f11(){
+		System.out.println("11");
+	}
 }
