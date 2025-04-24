@@ -21,4 +21,8 @@ public class Prueba {
 		System.out.println("f2++");
 	}
 
+	public static void f4() {
+		System.out.println("f4");
+	}
+
 }
