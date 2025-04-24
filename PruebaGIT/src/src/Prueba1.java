@@ -34,4 +34,8 @@ public class Prueba1 {
 	public static void f8() {
 		System.out.println("f8");	
 	}
+
+	public static void f18() {
+		System.out.println("f18");	
+	}
 }
