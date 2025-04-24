@@ -10,5 +10,9 @@ public class Prueba {
 	public static void f1(int a) {
 		System.out.println("f1");
 	}
+	
+	public static void f3(int a) {
+		System.out.println("f3");
+	}
 
 }
