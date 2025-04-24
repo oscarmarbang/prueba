@@ -40,4 +40,8 @@ public class Pruebas {
 	public static void f11(){
 		System.out.println("11");
 	}
+	
+	public static void f1mac() {
+		System.out.println("f1mac");
+	}
 }
