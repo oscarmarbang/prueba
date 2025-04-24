@@ -28,4 +28,8 @@ public class Prueba {
 	public static void f5() {
 		System.out.println("f5");	
 	}
+
+	public static void f7() {
+		System.out.println("f7");	
+	}
 }
