@@ -31,7 +31,7 @@ public class Pruebas {
 		System.out.println("f7");	
 	}
 
-	public static void f8() {
-		System.out.println("f8");	
+	public static void f9() {
+		System.out.println("f9");	
 	}
 }
