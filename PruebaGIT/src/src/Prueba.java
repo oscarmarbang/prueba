@@ -1,5 +1,3 @@
-package src;
-
 public class Prueba {
 
 	public Prueba() {
@@ -31,5 +29,9 @@ public class Prueba {
 
 	public static void f7() {
 		System.out.println("f7");	
+	}
+
+	public static void f8() {
+		System.out.println("f8");	
 	}
 }
