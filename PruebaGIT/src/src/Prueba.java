@@ -21,8 +21,11 @@ public class Prueba {
 		System.out.println("f2++");
 	}
 
-	public static void f4() {
-		System.out.println("f4");
+	public static void f6() {
+		System.out.println("f6");
 	}
 
+	public static void f5() {
+		System.out.println("f5");	
+	}
 }
