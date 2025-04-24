@@ -9,6 +9,7 @@ public class Prueba {
 	
 	public static void f2() {
 		System.out.println("f2");
+		System.out.println("f2++");
 	}
 
 }
