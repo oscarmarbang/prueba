@@ -1,6 +1,6 @@
-public class Pruebas {
+public class Prueba1 {
 
-	public Pruebas() {
+	public Prueba1() {
 		// TODO Auto-generated constructor stub
 		System.out.println("Cambiando el texto del hola mundo");
 	}
