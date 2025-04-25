@@ -19,9 +19,10 @@ public class Pruebas {
 		
 	}
 	
-	public static void f2() {
+	public static boolean f25() {
 		System.out.println("f2");
 		System.out.println("f2++");
+		return true;
 	}
 
 	public static void f6() {
