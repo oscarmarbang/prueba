@@ -15,7 +15,7 @@ public class Pruebas {
 	public static int f3(int a) {
 		int c = 3;
 		int b = 1;
-		return c + b + a;
+		return 250 * ( c + b + a);
 		
 	}
 	
