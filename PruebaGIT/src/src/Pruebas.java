@@ -11,9 +11,11 @@ public class Pruebas {
 		System.out.println("f1");
 	}
 	
-	public static void f3(int a) {
-		System.out.println("f3");
-		System.out.println("Esto es una prueba");
+	public static int f3(int a) {
+		int c = 3;
+		int b = 1;
+		return c + b + a;
+		
 	}
 	
 	public static void f2() {
